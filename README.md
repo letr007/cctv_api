@@ -1,7 +1,7 @@
 <p align="center">
     <img src="./assets/img/logo.png" width="250" height="200">
 </p>
-<h1 align="center">央视网-API整理</h1>
+<h1 align="center">央视网-API</h1>
 <p align="center" class="shields">
     <a href="https://github.com/letr007/CCTVVideoDownload/issues" style="text-decoration:none">
         <img src="https://img.shields.io/github/issues/letr007/CCTVVideoDownload.svg" alt="GitHub issues"/>
@@ -17,11 +17,11 @@
     </a>
 </p>
 
-<h3 align="center">野生API文档</h3>
+<h3 align="center">央视网野生API文档</h3>
 
 本项目旨在对央视网的 API 进行收集整理，研究使用方法并对其进行说明。
 
-本文档探讨的对象为[央视网](https://www.cctv.com/)主站的API接口，不包括央视频客户端等。
+本文档探讨的对象为[央视网](https://www.cctv.com/)的API接口，不包括央视频客户端等。
 
  warning ⚠️声明
 
@@ -38,14 +38,5 @@
 ## 🍴目录
 
 - [ ] [节目相关](docs/program)
-    - [ ] []
+    - [ ] [节目列表](docs/program/list_info.md)
 
-## 📖相关协议基础
-
-http 协议：[传送门](https://www.cnblogs.com/an-wen/p/11180076.html)
-
-json 序列格式：[传送门](https://www.sojson.com/json/json_index.html)
-
-xml 序列格式：[传送门](https://www.w3school.com.cn/xml/xml_intro.asp)
-
-protobuf 序列格式：[传送门](https://www.jianshu.com/p/a24c88c0526a )
