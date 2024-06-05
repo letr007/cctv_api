@@ -1,23 +1,25 @@
-<p align="center">
+<!-- <p align="center">
     <img src="./assets/img/logo.png" width="250" height="200">
-</p>
+</p> -->
 <h1 align="center">央视网-API</h1>
 <p align="center" class="shields">
-    <a href="https://github.com/letr007/CCTVVideoDownload/issues" style="text-decoration:none">
-        <img src="https://img.shields.io/github/issues/letr007/CCTVVideoDownload.svg" alt="GitHub issues"/>
+    <a href="https://github.com/letr007/cctv_api/issues" style="text-decoration:none">
+        <img src="https://img.shields.io/github/issues/letr007/cctv_api.svg" alt="GitHub issues"/>
     </a>
-    <a href="https://github.com/letr007/CCTVVideoDownload" style="text-decoration:none" >
-        <img src="https://img.shields.io/github/stars/letr007/CCTVVideoDownload.svg" alt="GitHub stars"/>
+    <a href="https://github.com/letr007/cctv_api" style="text-decoration:none" >
+        <img src="https://img.shields.io/github/stars/letr007/cctv_api.svg" alt="GitHub stars"/>
     </a>
-    <a href="https://github.com/letr007/CCTVVideoDownload/network" style="text-decoration:none" >
-        <img src="https://img.shields.io/github/forks/letr007/CCTVVideoDownload.svg" alt="GitHub forks"/>
+    <a href="https://github.com/letr007/cctv_api" style="text-decoration:none" >
+        <img src="https://img.shields.io/github/forks/letr007/cctv_api.svg" alt="GitHub forks"/>
     </a>
-    <a href="https://github.com/letr007/CCTVVideoDownload" style="text-decoration:none" >
+    <a href="https://github.com/letr007/cctv_api" style="text-decoration:none" >
         <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg" alt="GitHub license"/>
     </a>
 </p>
 
 <h3 align="center">央视网野生API文档</h3>
+<h4 align="center">持续更新ing</h4>
+
 
 本项目旨在对央视网的 API 进行收集整理，研究使用方法并对其进行说明。
 
@@ -38,5 +40,16 @@
 ## 🍴目录
 
 - [ ] [节目相关](docs/program)
-    - [ ] [节目列表](docs/program/list_info.md)
+    - [x] [节目列表](docs/program/list_info.md)
+    - [ ] [详细信息]()
 
+
+## 📖相关协议基础
+
+http 协议：[传送门](https://www.cnblogs.com/an-wen/p/11180076.html)
+
+json 序列格式：[传送门](https://www.sojson.com/json/json_index.html)
+
+## ✨鸣谢
+
+本项目构建布局参考[bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
