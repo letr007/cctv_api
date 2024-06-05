@@ -4,3 +4,6 @@
 > https://api.cntv.cn/lanmu/columnSearch?&fl=&fc=&cid=&p=2&n=20&serviceId=tvcctv&t=jsonp&cb=Callback
 > https://api.cntv.cn/lanmu/columnInfoByColumnId?id=TOPC1451528971114112&serviceId=tvcctv&cb=Callback
 > https://vdn.apps.cntv.cn/api/getHttpVideoInfo.do?pid=14b6d6aee34745f292f6fd44ecec5725
+> https://api.cntv.cn/epg/getEpgInfoByDate?c=cctv1&serviceId=tvcctv&d=20240604,20240605,20240606&t=jsonp&cb=callbackcctv1
+> https://api.cntv.cn/newLanmu/getVideoListByColumnChannelId?serviceId=tvcctv&cid=CHAL1450952056131267&n=16&sort=desc&mode=1&fd=&cb=Callback
+> https://api.cntv.cn/epg/getEpgInfoByChannelNew?c=cctv1&serviceId=tvcctv&d=20240605&t=jsonp&cb=setItem1
