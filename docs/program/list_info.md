@@ -26,9 +26,11 @@ mode字段可取值[0-2],代表三种返回数据格式
 
 mode取值不同返回的data:total及data:list字段有所不同
 
-当mode取值1时返回的data:list字段疑似详细数据
+当mode取值0时返回节目简略数据
 
-mode取值0或2返回数据基本相同，但顺序不同，且data:total的值不同
+当mode取值1时返回节目详细数据
+
+当mode取值2时返回节目简略+详细数据
 
 当mode取值超出范围返回如下:
 ```json
