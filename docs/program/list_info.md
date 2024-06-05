@@ -2,14 +2,10 @@
 
 > https://api.cntv.cn/NewVideo/getVideoListByColumn?id=TOPC1451559180488841&n=20&sort=desc&p=1&mode=0&serviceId=tvcctv
 
+**请求参数**
+
 *请求方式:GET*
 
-需要设置请求头，否则返回
-```JSON
-{"errcode":"1105","msg":"无效服务"}
-```
-
-请求参数
 
 |字段  |类型 |备注 |
 |-----|-----|-----|
@@ -18,7 +14,12 @@
 |sort |str  |暂不明确，可有可无|
 |p    |num  |页数。与n字段配合，p*n|
 |mode |num  |返回模式。取值[0-2]|
-|serviceId|str|必要参数，默认[tvcctv]|
+|serviceId|str|[tvcctv]|
+
+需要设置请求头，否则返回
+```JSON
+{"errcode":"1105","msg":"无效服务"}
+```
 
 - 关于mode:
 
