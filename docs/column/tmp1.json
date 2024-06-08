@@ -1,0 +1,27 @@
+{
+    "response": {
+        "docs": [
+            {
+                "column_id": "EPGM1387361853673102",
+                "column_name": "\u65b0\u95fb\u8054\u64ad",
+                "channel_name": "CCTV-1 \u7efc\u5408",
+                "column_logo": "https:\/\/p3.img.cctvpic.com\/photoAlbum\/page\/performance\/img\/2019\/5\/29\/1559095198581_853.jpg",
+                "column_website": "https:\/\/tv.cctv.com\/lm\/xwlb\/index.shtml",
+                "column_playdate": "\u6bcf\u65e519:00",
+                "column_backvideoaddress": "https:\/\/tv.cctv.com\/lm\/xwlb\/index.shtml",
+                "column_brief": "",
+                "column_photo": "https:\/\/p5.img.cctvpic.com\/photoAlbum\/page\/performance\/img\/2019\/5\/29\/1559095201325_886.jpg",
+                "column_firstclass": "\u65b0\u95fb",
+                "column_secondclass": "\u7efc\u5408",
+                "vms_video_album_id": "C10437",
+                "lastVIDE": {
+                    "videoUrl": "https:\/\/tv.cctv.com\/2024\/06\/08\/VIDE4sMoEypJlZopDWAb2Xsv240608.shtml",
+                    "videoSharedCode": "989b7afccbde4e67830e869b184b62ee",
+                    "videoId": "VIDE4sMoEypJlZopDWAb2Xsv240608",
+                    "videoTitle": "\u300a\u65b0\u95fb\u8054\u64ad\u300b 20240608 21:00"
+                }
+            }
+        ],
+        "numFound": 508
+    }
+}
