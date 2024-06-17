@@ -42,7 +42,7 @@
     - [x] [节目列表](docs/program/list_info.md)
     - [ ] [详细信息]()
 - [ ] [栏目相关](docs/column)
-    - [ ] [栏目列表]()
+    - [x] [栏目列表](docs/column/search.md)
 - [ ] [TODO](docs/todo_list.md)
 
 ## 📖相关协议基础
